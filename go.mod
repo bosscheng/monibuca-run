@@ -8,4 +8,3 @@ require (
 	github.com/Monibuca/plugin-gb28181 v1.0.0-alpha5
 )
 
-replace github.com/Monibuca/plugin-gb28181 => /Users/wancheng/GitHub/monibuca/plugin-gb28181
